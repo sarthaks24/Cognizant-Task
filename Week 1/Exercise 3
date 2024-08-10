@@ -1,0 +1,3 @@
+git config --global user.name "Sarthak"
+git config --global user.email "sarthakshroff24@gmail.com"
+git config --list
